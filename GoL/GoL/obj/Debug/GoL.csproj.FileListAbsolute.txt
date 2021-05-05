@@ -1,0 +1,12 @@
+C:\Users\Reccho\source\repos\GoL\GoL\bin\Debug\GoL.exe.config
+C:\Users\Reccho\source\repos\GoL\GoL\bin\Debug\GoL.exe
+C:\Users\Reccho\source\repos\GoL\GoL\bin\Debug\GoL.pdb
+C:\Users\Reccho\source\repos\GoL\GoL\obj\Debug\GoL.csprojAssemblyReference.cache
+C:\Users\Reccho\source\repos\GoL\GoL\obj\Debug\GoL.Properties.Resources.resources
+C:\Users\Reccho\source\repos\GoL\GoL\obj\Debug\GoL.csproj.GenerateResource.cache
+C:\Users\Reccho\source\repos\GoL\GoL\obj\Debug\GoL.csproj.CoreCompileInputs.cache
+C:\Users\Reccho\source\repos\GoL\GoL\obj\Debug\GoL.exe
+C:\Users\Reccho\source\repos\GoL\GoL\obj\Debug\GoL.pdb
+C:\Users\Reccho\source\repos\GoL\GoL\obj\Debug\GoL.Form1.resources
+C:\Users\Reccho\source\repos\GoL\GoL\obj\Debug\GoL.Form_Info.resources
+C:\Users\Reccho\source\repos\GoL\GoL\obj\Debug\GoL.Form_TooSmall.resources
